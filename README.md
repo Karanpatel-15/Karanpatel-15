@@ -11,7 +11,9 @@
 
 ## 💯Repo Ranking and Briefing 
 
-1. 
+1. [Ultimate-TikTacToe-Game](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game): 
+2. [The-Lost-Jungle-Bank-Game](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game): 
+3. [ICS4U-Classwork-Portfolio](https://github.com/Karanpatel-15/ICS4U-Classwork-Portfolio): 
 
 
 
