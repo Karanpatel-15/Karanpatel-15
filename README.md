@@ -1,4 +1,4 @@
-<img src="Intro Image.png" width="1980" height="800" />
+<img src="Intro Image.png"/>
 # 👋 Hey, I’m Karan Patel
 
 ### Currently:
