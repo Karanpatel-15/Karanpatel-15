@@ -12,7 +12,7 @@
 
 ## 💯Repo Ranking and Briefing 
 1. [Java-Search-Engine:](https://github.com/Karanpatel-15/Java-Search-Engine) A Search Engine using same logic as the project below written in Java using OOP principals paired with a Java GUI.
-2. [Password-Manager:](https://github.com/Karanpatel-15/Password-Manager) A Java Spring Boot Application created to help you store your password encrypted with Spring Systurity.
+2. [Password-Manager:](https://github.com/Karanpatel-15/Password-Manager) A Java Spring Boot Application created to help you store your password encrypted with Spring Security.
 3. [Python-Search-Engine:](https://github.com/Karanpatel-15/Python-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in Python.   
 4. [Ultimate-TikTacToe-Game:](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game) A Ultimate Version of the simple game Tik-Tac-Toe written in C++.  
 5. [The-Lost-Jungle-Bank-Game:](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game) A complete JS game created following the requirements of local elementary school students. 
