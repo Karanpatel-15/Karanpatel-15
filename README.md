@@ -7,7 +7,7 @@
 - I am specializing in Software Engineering and minoring in Business.
 
 ### Get In Touch:
-- :email: **Email:** You can reach out to me by sending an email @ inbox.kpatel@gmail.com. 
+- :email: **Email:** You can reach out to me by sending an email at inbox.kpatel@gmail.com. 
 - 🤵 **LinkedIn:** If you would like to learn more about me, you can connect with me on my [LinkedIn](https://www.linkedin.com/in/karanpatel1501/).
 
 ## 💯Repo Ranking and Briefing 
