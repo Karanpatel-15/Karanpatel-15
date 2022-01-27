@@ -11,9 +11,9 @@
 - 🤵 **LinkedIn:** If you would like to learn more about me, you can connect with me on my [LinkedIn](https://www.linkedin.com/in/karanpatel1501/).
 
 ## 💯Repo Ranking and Briefing 
-1. [Java-Search-Engine:](https://github.com/Karanpatel-15/Java-Search-Engine) A Search Engine using same logic as the project below written in Java using OOP principals paired with a Java GUI.
-2. [Password-Manager:](https://github.com/Karanpatel-15/Password-Manager) A Java Spring Boot Application created to help you store your password encrypted with Spring Security.
-3. [Python-Search-Engine:](https://github.com/Karanpatel-15/Python-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in Python.   
+1. [Java-Search-Engine:](https://github.com/Karanpatel-15/Java-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in Java using OOP principals.
+2. [Password-Manager:](https://github.com/Karanpatel-15/Password-Manager) A Java Spring Boot Application created to help you store your passwords.
+3. [Python-Search-Engine:](https://github.com/Karanpatel-15/Python-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in python
 4. [Ultimate-TikTacToe-Game:](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game) A Ultimate Version of the simple game Tik-Tac-Toe written in C++.  
 5. [The-Lost-Jungle-Bank-Game:](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game) A complete JS game created following the requirements of local elementary school students. 
 6. [ICS4U-Classwork-Portfolio:](https://github.com/Karanpatel-15/ICS4U-Classwork-Portfolio) A Webpage Portfolio created to showcase all my JS projects done in HighSchool. 
