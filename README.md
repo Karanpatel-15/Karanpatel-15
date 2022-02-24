@@ -1,4 +1,4 @@
-<img src="Intro Image.png"/>
+<img src="LinkedIn Banner.png"/>
 
 # 👋 Hey, I’m Karan Patel
 
