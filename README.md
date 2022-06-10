@@ -13,11 +13,11 @@
 <!-- - :globe_with_meridians:	**Personal Website:** (Currently Under Development) Check out my website [HERE](https://karanpatel.vercel.app/). The code is also avalible in this github repo: [Personal-Portfolio](https://github.com/Karanpatel-15/Personal-Portfolio) -->
 
 ## 💯Repo Ranking and Briefing 
-1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) ...
+1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) Created a application to help visualize path finding algorithms between two points on a grid.
 2. [Java-Search-Engine:](https://github.com/Karanpatel-15/Java-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in Java using OOP principals.
 3. [Password-Manager:](https://github.com/Karanpatel-15/Password-Manager) A Java Spring Boot Application created to help you store your passwords.
-4. [Python-Search-Engine:](https://github.com/Karanpatel-15/Python-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in python
-5. Other University projects is hidden due to Academic integreity but are available opon able on request 
+4. [Python-Search-Engine:](https://github.com/Karanpatel-15/Python-Search-Engine) A Search Engine that implements a web crawler and ranking system using PageRank algorithm written in python.
+5. Other University projects is hidden due to Academic integreity but are available opon able on request. 
 6. [Ultimate-TikTacToe-Game:](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game) A Ultimate Version of the simple game Tik-Tac-Toe written in C++.  
 7. [The-Lost-Jungle-Bank-Game:](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game) A complete JS game created following the requirements of local elementary school students. 
 8. [ICS4U-Classwork-Portfolio:](https://github.com/Karanpatel-15/ICS4U-Classwork-Portfolio) A Webpage Portfolio created to showcase all my JS projects done in HighSchool. 
