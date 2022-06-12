@@ -1,7 +1,7 @@
 <img src="LinkedIn Banner.png"/>
 
 <h1 align="center">
-👋 Hey, I’m Karan Patel
+<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hey, I’m Karan Patel
 <h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
