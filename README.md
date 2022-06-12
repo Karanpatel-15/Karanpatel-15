@@ -28,7 +28,7 @@
   
 ## Virtual Internship Programs
   
-### - :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program), :credit_card:	[Visa](https://github.com/Karanpatel-15/Visa-Virtual-Internship-Program), :credit_card:	[Mastercard](https://github.com/Karanpatel-15/Mastercard-Virtual-Internship-Program)
+### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program), :credit_card:	[Visa](https://github.com/Karanpatel-15/Visa-Virtual-Internship-Program), :credit_card:	[Mastercard](https://github.com/Karanpatel-15/Mastercard-Virtual-Internship-Program)
 
 
 ## 💯Repo Ranking and Briefing 
