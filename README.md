@@ -26,9 +26,10 @@
 - 📄 ***Resume*** You can check out my resume [HERE](https://karanpatel-15.github.io/Personal-Portfolio/assets/pdf/Karan_Patel_Resume.pdf).
 <!-- - :globe_with_meridians:	**Personal Website:** (Currently Under Development) Check out my website [HERE](https://karanpatel.vercel.app/). The code is also avalible in this github repo: [Personal-Portfolio](https://github.com/Karanpatel-15/Personal-Portfolio) -->
   
-## :computer: Virtual Internship Programs
+## Virtual Internship Programs
   
-### [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program)
+### - :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program), :credit_card:	[Visa](https://github.com/Karanpatel-15/Visa-Virtual-Internship-Program), :credit_card:	[Mastercard](https://github.com/Karanpatel-15/Mastercard-Virtual-Internship-Program)
+
 
 ## 💯Repo Ranking and Briefing 
 1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) Created a application to help visualize path finding algorithms between two points on a grid.
