@@ -29,8 +29,7 @@
 <div align="center">
   <h1> Virtual Internship Programs</h1>
   
-### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program), :credit_card:	[Visa](https://github.com/Karanpatel-15/Visa-Virtual-Internship-Program), :credit_card:	[Mastercard](https://github.com/Karanpatel-15/Mastercard-Virtual-Internship-Program)
-</div>
+### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program)</div>
 
 ## 💯Repo Ranking and Briefing 
 1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) Created a application to help visualize path finding algorithms between two points on a grid.
