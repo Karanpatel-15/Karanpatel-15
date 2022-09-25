@@ -25,11 +25,6 @@
 - 🤵 **LinkedIn:** If you would like to learn more about me, you can connect with me on my [LinkedIn](https://www.linkedin.com/in/karanpatel1501/).
 - 📄 ***Resume*** You can check out my resume [HERE](https://karanpatel-15.github.io/Personal-Portfolio/assets/pdf/Karan_Patel_Resume.pdf).
 <!-- - :globe_with_meridians:	**Personal Website:** (Currently Under Development) Check out my website [HERE](https://karanpatel.vercel.app/). The code is also avalible in this github repo: [Personal-Portfolio](https://github.com/Karanpatel-15/Personal-Portfolio) -->
-  
-<div align="center">
-  <h1> Virtual Internship Programs</h1>
-  
-### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program)</div>
 
 ## 💯Repo Ranking and Briefing 
 1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) Created a application to help visualize path finding algorithms between two points on a grid.
@@ -40,6 +35,11 @@
 6. [Ultimate-TikTacToe-Game:](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game) A Ultimate Version of the simple game Tik-Tac-Toe written in C++.  
 7. [The-Lost-Jungle-Bank-Game:](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game) A complete JS game created following the requirements of local elementary school students. 
 8. [ICS4U-Classwork-Portfolio:](https://github.com/Karanpatel-15/ICS4U-Classwork-Portfolio) A Webpage Portfolio created to showcase all my JS projects done in HighSchool. 
+  
+ <div align="center">
+  <h1> Virtual Internship Programs</h1>
+  
+### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program)</div>
 
 ### Technologies 👨‍💻
 
