@@ -36,11 +36,11 @@
 6. [Ultimate-TikTacToe-Game:](https://github.com/Karanpatel-15/Ultimate-TikTacToe-Game) A Ultimate Version of the simple game Tik-Tac-Toe written in C++.  
 7. [The-Lost-Jungle-Bank-Game:](https://github.com/Karanpatel-15/The-Lost-Jungle-Bank-Game) A complete JS game created following the requirements of local elementary school students. 
 8. [ICS4U-Classwork-Portfolio:](https://github.com/Karanpatel-15/ICS4U-Classwork-Portfolio) A Webpage Portfolio created to showcase all my JS projects done in HighSchool. 
-  
+<!--   
  <div align="center">
   <h1> Virtual Internship Programs</h1>
   
-### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program)</div>
+### :blue_car: [Lyft](https://github.com/Karanpatel-15/Lyft-Virtual-Internship-Program), :bank: [Goldman Sachs](https://github.com/Karanpatel-15/Goldman-Sachs-Virtual-Internship-Program), :bank: [JPMorgan Chase](https://github.com/Karanpatel-15/JPMorgan-Chase-Virtual-Internship-Program)</div> -->
 
 ### Technologies 👨‍💻
 
