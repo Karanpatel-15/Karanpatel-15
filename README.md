@@ -7,7 +7,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=808080&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer">
-</p>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&pause=1000&width=435&lines=+Computer+Science+Student;+Software+Developer" alt="Typing SVG" /></a> -->
+ </p>
 
 <!-- Social icons section -->
 <!-- <p align="center">
