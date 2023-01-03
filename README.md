@@ -25,7 +25,7 @@
 - :email: **Email:** You can reach out to me by sending an email at inbox.kpatel@gmail.com. 
 - 🤵 **LinkedIn:** If you would like to learn more about me, you can connect with me on my [LinkedIn](https://www.linkedin.com/in/karanpatel1501/).
 - 📄 ***Resume*** You can check out my resume [HERE](https://karanpatel-15.github.io/Personal-Portfolio/assets/pdf/Karan_Patel_Resume.pdf).
-<!-- - :globe_with_meridians:	**Personal Website:** (Currently Under Development) Check out my website [HERE](https://karanpatel.vercel.app/). The code is also avalible in this github repo: [Personal-Portfolio](https://github.com/Karanpatel-15/Personal-Portfolio) -->
+- :globe_with_meridians:	**Personal Website:** Check out my website [HERE](https://karanpatel-15.github.io/Portfolio/).
 
 ## 💯Repo Ranking and Briefing 
 1. [Pathfinding-Visualizer:](https://github.com/Karanpatel-15/Pathfinding-Visualizer) Created a application to help visualize path finding algorithms between two points on a grid.
