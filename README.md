@@ -1,5 +1,3 @@
-<img src="LinkedIn Banner2.png"/>
-
 <h1 align="center">
 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"> Hey, I’m Karan Patel
 <h1>
@@ -7,8 +5,8 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?size=30&color=808080&center=true&vCenter=true&lines=Computer+Science+Student;Software+Developer"> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=808080&center=true&width=600&lines=Computer+Science+Student;Software+Developer" alt="Typing SVG" /></a>
- </p>
+  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=808080&center=true&width=600&lines=Computer+Science+Student;Software+Developer" alt="Typing SVG" /></a>
+ </p> -->
 
 <!-- Social icons section -->
 <!-- <p align="center">
